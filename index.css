@@ -40,6 +40,9 @@ header {
 .header_link:hover {
     color: gray;
 }
+.header_menu{
+    display:none;
+}
 
 #about {
     margin-top: 80px;
